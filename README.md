@@ -13,8 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
+A screenshot of the finished project: https://imgur.com/a/34oy8e8
+
 
 ### Live Site
+
+View live server here: 
 
 
 ## My process
