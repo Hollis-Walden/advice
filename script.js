@@ -12,7 +12,7 @@ function getAdvice() {
         adviceId.textContent = adviceNum;
         adviceText.innerHTML = `<p>${advice}</p>`;
 
-    }).catch(console.error => {
+    }).catch(error => {
         console.log(error);
 
     })
