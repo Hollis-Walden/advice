@@ -1,6 +1,6 @@
 const adviceId = document.querySelector('#adviceId');
 const adviceText = document.querySelector('#advicetext');
-const btn = document.querySelector(#btn);
+const btn = document.querySelector('#btn');
 
 function getAdvice() {
     fetch('https://api.adviceslip.com/advice').then(response => {
