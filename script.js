@@ -1,5 +1,5 @@
 const adviceId = document.querySelector('#adviceId');
-const adviceText = document.querySelector('#adviceText');
+const adviceText = document.querySelector('#advicetext');
 const btn = document.querySelector(#btn);
 
 function getAdvice() {
